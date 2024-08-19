@@ -56,5 +56,4 @@ Explore the Data/, Figures/, and Outputs/ folders to see the raw data, figures, 
 Refer to the Report/ folder for a detailed explanation of the project and its findings.
 
 Contribute:
-
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
